@@ -36,7 +36,7 @@ pip install Flask
 ```
 ## Usage
 ```
-git clone https://github.com/spiritedonion/Nmap-Discovery-Hub.git
+git clone https://github.com/0x9r4ngu/Nmap-Discovery-Hub.git
 ```
 Install the required dependencies as mentioned above.
 ```
